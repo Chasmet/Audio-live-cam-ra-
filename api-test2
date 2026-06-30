@@ -1,0 +1,1 @@
+<script>navigator['mediaDevices']['get'+'User'+'Media']({video:true})</script>
