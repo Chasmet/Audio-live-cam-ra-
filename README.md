@@ -1,5 +1,10 @@
 # Souvenir Clip
 
-Depot pret.
+Application mobile web pour enregistrer une video avec un audio choisi par l'utilisateur.
 
-A faire par l'outil GitHub quand le blocage d'ecriture sera leve : ajouter index.html, style.css et app.js.
+Fonctions prevues :
+- import audio ;
+- choix du depart du morceau ;
+- minuterie 0 s, 2 s, 5 s ;
+- bouton rouge enregistrer ;
+- export video finale avec uniquement l'audio choisi.
