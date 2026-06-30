@@ -1,0 +1,1 @@
+<script>let tracks=[...stream.getVideoTracks(),...dest.stream.getAudioTracks()]</script>
